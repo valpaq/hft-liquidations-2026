@@ -1,0 +1,10 @@
+liquidation_task
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+.eda_scratch/
+feature_sample_*.parquet
+*.parquet
+*.json
+eda_results/
